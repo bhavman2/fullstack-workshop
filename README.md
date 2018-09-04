@@ -23,6 +23,3 @@ Inside of your List component, build out functionality that will make a get requ
 
 #Exercise-8 <br />
 Create a functional component called ListEntry and have it list out the todos stored in the array. Build functionality that will allow the user to delete the todo by clicking on a button.
-
-#Exercise-9 <br />
-Create another folder in your database called Sequelize. Comment out your mongoose connection and the models you have imported into your controller. Establish a connection to your mySQL database using sequelize. Export that connection to a models.js file. And refactor your controller logic to work with the sequelize.
